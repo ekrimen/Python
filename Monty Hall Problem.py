@@ -3,6 +3,8 @@
 
 # In[1]:
 
+## This is simulate the Monty Hall problem
+
 get_ipython().magic('matplotlib inline')
 import numpy as np
 import scipy as sp
